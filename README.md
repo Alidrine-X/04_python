@@ -1,7 +1,7 @@
 Veckouppgift4
 
 1. Läsa och förstå kod - Diskutera i grupp
-	p410.py – deluppgifter 1a - 1i
+	* p410.py – deluppgifter 1a - 1i
 
 2. Öva på funktioner och moduler
 	p420.py – deluppgifter 1 - 8
